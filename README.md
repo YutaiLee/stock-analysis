@@ -73,5 +73,7 @@ First, I first copy the code provided by Module 2 to the new Module. Through the
 Refactoring helps to make our code clearer and easier to understand. Clear code can make design and software easy to improve, and debug and speed up programming. In addition, refactoring can also help the code run faster and save the time required for work. However, we do not always have the opportunity to refactor our code. Although refactoring code can make it easier for us to read and add new code, refactoring code has certain risks. If we input wrong instructions when refactoring the code, or change the original instructions, it may cause more serious errors.
 ### Pros and Cons of original and refactored VBA script.
 The most direct benefit of refactoring is that it can reduce the running time of the code. The original code is very complicated and it takes nearly 0.5 seconds to run the data for one year. The refactored code only takes 0.1 second to complete the data for one year. The figure below shows the time it takes for the new code to run.
+
+
 ![image](https://github.com/YutaiLee/stock_analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![image](https://github.com/YutaiLee/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
